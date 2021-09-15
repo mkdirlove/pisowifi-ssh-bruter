@@ -68,12 +68,13 @@ function main(){
 		read -p "[+] Enter gateway ip: " ip
 		echo -e "\e[0m"
 		nmap $ip -p 22 --script ssh-brute --script-args userdb=user.txt,passdb=password.txt
-	elif [[ $ins -eq 2 || $ins -eq 02 ]]
+	elif [[ $ins -eq 0 || $ins -eq 00 ]]
 	then
-		clear && exit
+		clear && xdg-open https://web.facebook.com/mkdirlove.git && exit
 	else
 		echo ""
 		echo -e "\e[1m\e[91m[!] Invalid input, Please try again...\e[0m"
+		xdg-open https://web.facebook.com/mkdirlove.git
 		exit
 	fi
 }
