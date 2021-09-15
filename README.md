@@ -6,6 +6,7 @@
 
 
 ### Linux Installation and Usage
+#
 
 ```
  sudo apt update
@@ -28,9 +29,10 @@
 ```
  bash pisowifi-ssh-bruter.sh
 ```
+###
 
 ### Termux Installation and Usage
-
+#
 ```
  pkg update && pkg upgrade
 ```
