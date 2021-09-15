@@ -1,7 +1,6 @@
-<center>
 ###
 ![](https://raw.githubusercontent.com/mkdirlove/pisowifi-ssh-bruter/main/piso-wifi.gif)
-### pisowifi-ssh-bruter
+# pisowifi-ssh-bruter
 </center>
  Simple SSH bruteforcing tool written in Bash
 
