@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/mkdirlove/pisowifi-ssh-bruter"><img src="https://raw.githubusercontent.com/mkdirlove/pisowifi-ssh-bruter/main/piso-wifi.gif" alt="piso-wifi"></a>
   <br>
-  pisowifi-ssh-bruter : A simle multi-deface page creator written in Python.
+  pisowifi-ssh-bruter : Simple SSH bruteforcing tool written in Bash.
   <br>
 </h1>
 
