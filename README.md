@@ -4,9 +4,8 @@
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=16D400&size=25&width=750&lines=Simple+SSH+bruteforcing+tool+for+Piso+Wifi+Vendo.)](https://git.io/typing-svg)
 
-
-### Linux Installation and Usage
 #
+### Linux Installation and Usage
 
 ```
  sudo apt update
@@ -29,10 +28,8 @@
 ```
  bash pisowifi-ssh-bruter.sh
 ```
-###
-
-### Termux Installation and Usage
 #
+### Termux Installation and Usage
 ```
  pkg update && pkg upgrade
 ```
