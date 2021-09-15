@@ -2,7 +2,8 @@
 
 clear
 echo -e "\e[1m\e[93mInstalling Dependencies\e[0m"
-echo ""
+echo -e "\e[1m"
+apt install nmap toilet python php curl wget git ruby -y && gem install lolcat
 pkg install nmap toilet python php curl wget git ruby -y && gem install lolcat
 chmod +x pisowifi-ssh.sh
 clear
