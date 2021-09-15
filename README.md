@@ -4,7 +4,7 @@
 
 ###
 
-### Installation and usage
+### Installation and Usage
 
 ```
  https://github.com/mkdirlove/pisowifi-ssh-bruter
