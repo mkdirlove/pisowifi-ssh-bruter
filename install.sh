@@ -7,4 +7,4 @@ chmod +x pisowifi-ssh.sh
 clear
 echo "Installation is Done" | toilet -f smbraille
 echo ""
-echo "Execute using the command 'bash pisowifi-ssh.sh'"
+echo "Execute using the command 'bash pisowifi-ssh-bruter.sh'"
