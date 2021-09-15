@@ -1,8 +1,6 @@
 ###
 ![](https://raw.githubusercontent.com/mkdirlove/pisowifi-ssh-bruter/main/piso-wifi.gif)
-### pisowifi-ssh-bruter
-    
-### Simple SSH bruteforcing tool written in Bash
+### pisowifi-ssh-bruter : Simple SSH bruteforcing tool for Piso Wifi Vendo.
 
 ###
 
