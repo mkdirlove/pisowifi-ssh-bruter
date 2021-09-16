@@ -55,5 +55,5 @@ function main(){
 	fi
 }
 
-# Arguments
+# Main arguments
 main
