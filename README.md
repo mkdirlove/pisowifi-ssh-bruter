@@ -12,6 +12,11 @@
 1. [__Termux Installation Guide and Usage__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#termux-installation-and-usage)
 1. [__Attacking Guide__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#attacking-guide)
 
+## __ToDo List__
+
+- [x] Add another method
+- [x] Bug fixes
+
 ## __Linux Installation Guide and Usage__
 
 ```
