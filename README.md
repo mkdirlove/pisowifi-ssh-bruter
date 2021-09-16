@@ -7,9 +7,14 @@
 #
 ## __Contents__
 
-*[Linux Installation and Usage](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#linux-installation-and-usage)
+[Linux Installation and Usage](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#linux-installation-and-usage)
 
-*[Termux Installation and Usage](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#termux-installation-and-usage)
+[Termux Installation and Usage](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#termux-installation-and-usage)
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 ## __Linux Installation and Usage__
 
