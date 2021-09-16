@@ -11,10 +11,9 @@
 
 [Termux Installation and Usage](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#termux-installation-and-usage)
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+1. Item 3
+   1. Item 3a
+   1. Item 3b
 
 ## __Linux Installation and Usage__
 
