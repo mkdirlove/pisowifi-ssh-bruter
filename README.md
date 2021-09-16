@@ -93,4 +93,4 @@
 ```
 ###
 ###
-## __That's All Guyssssssss__
+## __Note: I am not liable for any illegal usage of this tool.__
