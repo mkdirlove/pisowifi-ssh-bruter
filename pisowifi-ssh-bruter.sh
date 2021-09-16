@@ -18,7 +18,7 @@ function check_ssh(){
 	clear
 	echo "SSH Port Checker" | toilet -f smbraille | lolcat
 	echo -e "\e[1m\e[92m"
-	read -p "[+] Enter gateway ip: " ip
+	read -p "[+] Enter target ip: " ip
 	echo ""
 	echo -e "\e[1m\e[93m[*] Checking if port 22 is open... "
 	echo -e "\e[0m"
@@ -63,9 +63,9 @@ function main(){
 	if [[ $method -eq 1 || $method -eq 01 ]]
 	then
 		clear
-		echo -e "Cracking SSH using Nmap" | toilet -f smbraille | lolcat
+		echo -e "Cracking SSH Login" | toilet -f smbraille | lolcat
 		echo -e "\e[1m\e[92m"
-		read -p "[+] Enter gateway ip: " ip
+		read -p "[+] Enter target ip: " ip
 		echo -e "\e[0m"
 		nmap $ip -p 22 --script ssh-brute --script-args userdb=user.txt,passdb=password.txt
 	elif [[ $method -eq 0 || $method -eq 00 ]]
