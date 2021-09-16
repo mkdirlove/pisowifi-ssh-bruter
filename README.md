@@ -15,8 +15,8 @@
 
 ## __ToDo List__
 
-- [x] Add another method
-- [x] Bug fixes
+- [x] Add method for Termux
+- [x] Add method for Linux
 
 ## __Linux Installation Guide and Usage__
 
