@@ -79,5 +79,5 @@ function main(){
 	fi
 }
 
-# Argument
+# Main argument
 main
