@@ -10,7 +10,7 @@
 1. [__About__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#pisowifi-ssh-bruter)
 1. [__Linux Installation Guide and Usage__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#linux-installation-and-usage)
 1. [__Termux Installation Guide and Usage__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#termux-installation-and-usage)
-2. 1. [__About__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#pisowifi-ssh-bruter)
+1. [__Attacking Guide__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#attacking-guide)
 
 ## __Linux Installation Guide and Usage__
 
@@ -58,3 +58,25 @@
 ```
  bash pisowifi-ssh-bruter.sh
 ```
+#
+## __Attacking Guide__
+```
+ Step 1. Connect to near Piso Wifi AP.
+```
+```
+ Step 2. Run the tool `bash pisowifi-ssh-bruter.sh`
+```
+```
+ Step 3. Enter the gateway IP of the AP ex. `10.0.0.1` and press Enter.
+```
+```
+ Step 4. Enter number 1 to attack using NMAP.
+```
+```
+ Step 5. Enter the gateway IP of the AP ex. `10.0.0.1` and press Enter.
+```
+```
+ Step 6. Wait until you got the SSH credencials.
+```
+#
+## __That's All Guyssssssss__
