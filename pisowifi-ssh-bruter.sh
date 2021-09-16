@@ -55,7 +55,7 @@ function main(){
 	clear
 	echo "Piso Wifi SSH Bruter" | toilet -f smbraille | lolcat
 	echo -e "\e[1m\e[92m"
-	echo -e "[01] Crack using Nmap"
+	echo -e "[01] Start Cracking"
 	echo -e "[00] Close Program"
 	echo -e ""
 	read -p "[+] Choose number: " method
