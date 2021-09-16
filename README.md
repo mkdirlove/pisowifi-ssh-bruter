@@ -83,7 +83,7 @@
  Step 3. Enter the gateway IP of the AP ex. `10.0.0.1` and press Enter.
 ```
 ```
- Step 4. Enter number 1 to attack using NMAP.
+ Step 4. Enter number 1 and press Enter to start bruteforce attack.
 ```
 ```
  Step 5. Enter the gateway IP of the AP ex. `10.0.0.1` and press Enter.
