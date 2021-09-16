@@ -6,8 +6,9 @@
 
 #
 ## __Contents__
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+[Linux Installation and Usage](http://github.com)
+[Termux Installation and Usage](http://github.com)
 
 ## __Linux Installation and Usage__
 
