@@ -7,11 +7,11 @@
 #
 ## __Contents__
 
-1. [Linux Installation and Usage](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#pisowifi-ssh-bruter)
-1. [Linux Installation and Usage](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#linux-installation-and-usage)
-1. [Termux Installation and Usage](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#termux-installation-and-usage)
+1. [__About__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#pisowifi-ssh-bruter)
+1. [__Linux Installation Guide and Usage__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#linux-installation-and-usage)
+1. [__Termux Installation Guide and Usage__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#termux-installation-and-usage)
 
-## __Linux Installation and Usage__
+## __Linux Installation Guide and Usage__
 
 ```
  sudo apt update
@@ -35,7 +35,7 @@
  bash pisowifi-ssh-bruter.sh
 ```
 #
-## __Termux Installation and Usage__
+## __Termux Installation Guide and Usage__
 ```
  pkg update && pkg upgrade
 ```
