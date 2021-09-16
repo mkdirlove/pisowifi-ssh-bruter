@@ -5,11 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=16D400&size=25&width=770&lines=Simple+SSH+bruteforcing+tool+for+Piso+Wifi+Vendo.)](https://git.io/typing-svg)
 
 #
-## __Contents__
+## __Table Contents__
 
 1. [__About__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#pisowifi-ssh-bruter)
 1. [__Linux Installation Guide and Usage__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#linux-installation-and-usage)
 1. [__Termux Installation Guide and Usage__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#termux-installation-and-usage)
+2. 1. [__About__](https://github.com/mkdirlove/pisowifi-ssh-bruter/blob/main/README.md#pisowifi-ssh-bruter)
 
 ## __Linux Installation Guide and Usage__
 
